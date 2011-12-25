@@ -291,12 +291,12 @@ div.menu ul {
 	line-height: 1.5em;
 	margin: 0 0 20px 0;
 }
-#content table {
-	border: 1px solid #e7e7e7;
-	margin: 0 -1px 24px 0;
-	text-align: left;
-	width: 100%;
-}
+/* #content table { */
+/* 	border: 1px solid #e7e7e7; */
+/* 	margin: 0 -1px 24px 0; */
+/* 	text-align: left; */
+/* 	width: 100%; */
+/* } */
 #content tr th,
 #content thead th {
 	color: #888;
