@@ -1,5 +1,5 @@
 <?php
 /*
  *  remove all sidebar
- *
+ */
 ?>
